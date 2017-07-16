@@ -1,7 +1,7 @@
  	    ..__Xjobs __..
  	
  	USAGE
-     ```bash
+     ```python
 	$ Xjobs
 	  ps aux | grep firefox
 	  python kelly.py
